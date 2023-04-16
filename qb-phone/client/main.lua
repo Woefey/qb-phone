@@ -90,7 +90,7 @@ exports["qb-target"]:AddTargetModel(PublicPhoneobject, {
             type = "client",
             event = "qb-phone:client:publocphoneopen",
             icon = "fas fa-phone-alt",
-            label = "Openbare telefoon",
+            label = "Public phone",
         },
     },
     distance = 1.0
